@@ -1,6 +1,6 @@
 elasticsearch==8.19.3
 PyJWT==2.10.1
-fastmcp==2.14.3
+fastmcp==3.2.0
 Flask==3.1.0
 Flask-Cors==5.0.0
 opentelemetry-distro==0.57b0
