@@ -1,7 +1,7 @@
 -r requirements.txt
 
 # for tests
-pytest==8.4.0
+pytest==9.0.3
 pytest-asyncio>=0.24
 
 # for sample data loader
